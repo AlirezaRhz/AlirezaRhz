@@ -1,6 +1,6 @@
 <!-- 🟦 HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Alireza%20RH&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=AlirezaRhz&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- ✍️ TYPING INTRO -->
