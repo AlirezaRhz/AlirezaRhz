@@ -14,9 +14,8 @@
 
 - 🔧 Backend developer focused on **C#** & **ASP.NET Core**
 - 🧠 Interested in backend architecture, databases, and scalable systems
-- 🐧 Learning **Linux & system fundamentals**
-- 🌱 Currently improving ASP.NET Core, SQL, and software design principles
 - 🤝 Open to collaborating on backend & open-source projects
+- 🐧 Linux enthusiast
 
 ## 🧰 Tech Stack
 
@@ -28,10 +27,11 @@
 
 ---
 
-### 🌐 Backend & Frameworks
+### 🌐 Frameworks & Libraries
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 
